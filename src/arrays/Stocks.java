@@ -1,4 +1,4 @@
-package Narvar;
+package arrays;
 
 public class Stocks {
 

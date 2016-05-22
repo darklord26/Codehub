@@ -1,4 +1,4 @@
-package Narvar;
+package search;
 
 public class SubStringSearch {
 	private int prime = 101;
