@@ -1,3 +1,3 @@
 # Codehub
 
-Optimized Solutions for interesting software engineering interview problems!!!
+Optimized Solutions for interesting Software Engineering Interview problems!!!
