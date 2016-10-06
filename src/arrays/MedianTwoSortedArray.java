@@ -11,6 +11,7 @@ public class MedianTwoSortedArray {
 		int a[] = { 1, 3, 5, 11, 17 };
 		int b[] = { 9, 10, 11, 13, 14 };
 		System.out.println("The median of the two array is:" + medianSearch(a, b));
+		System.out.println(" ");
 	}
 
 	static int medianSearch(int[] a, int[] b) {
